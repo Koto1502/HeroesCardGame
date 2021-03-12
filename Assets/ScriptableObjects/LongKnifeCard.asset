@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77d5054fdd0f544288431dcfb120e92, type: 3}
+  m_Name: LongKnifeCard
+  m_EditorClassIdentifier: 
+  cardTitle: Long Knife
+  description: 4 Damge
+  Shield: 1
+  cost: 1
+  damage: 3
+  gold: 0
+  cardImage: {fileID: 21300000, guid: b17f25e6cfda9ea4c8d796c6e3042105, type: 3}
+  cardFrameImage: {fileID: 21300000, guid: c05e3ec3b5d840e4abdbaad0a541ab97, type: 3}
+  numberInDeck: 1
+  isAttackCard: 0
+  isHealCard: 0
+  isDefenseCard: 0
+  isCreated: 0

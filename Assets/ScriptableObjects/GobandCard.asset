@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77d5054fdd0f544288431dcfb120e92, type: 3}
+  m_Name: GobandCard
+  m_EditorClassIdentifier: 
+  cardTitle: Goblin Boyband
+  description: 5 Damage, 1 Gold
+  Shield: 4
+  cost: 3
+  damage: 5
+  gold: 1
+  cardImage: {fileID: 21300000, guid: 99f0740ff67ab114e8767b5eb7d27301, type: 3}
+  cardFrameImage: {fileID: 21300000, guid: c05e3ec3b5d840e4abdbaad0a541ab97, type: 3}
+  numberInDeck: 20
+  isAttackCard: 0
+  isHealCard: 0
+  isDefenseCard: 0
+  isCreated: 0

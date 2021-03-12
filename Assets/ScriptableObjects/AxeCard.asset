@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77d5054fdd0f544288431dcfb120e92, type: 3}
+  m_Name: AxeCard
+  m_EditorClassIdentifier: 
+  cardTitle: Axe
+  description: Deals 10 Damage
+  Shield: 1
+  cost: 4
+  damage: 10
+  gold: 0
+  cardImage: {fileID: 21300000, guid: 3c8362b97f0d62a40b87b4b2273ddbb2, type: 3}
+  cardFrameImage: {fileID: 21300000, guid: c05e3ec3b5d840e4abdbaad0a541ab97, type: 3}
+  numberInDeck: 20
+  isAttackCard: 0
+  isHealCard: 0
+  isDefenseCard: 0
+  isCreated: 1

@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d77d5054fdd0f544288431dcfb120e92, type: 3}
+  m_Name: CoinCard
+  m_EditorClassIdentifier: 
+  cardTitle: Coin
+  description: Gives 2 coins although it says 1
+  Shield: 1
+  cost: 1
+  damage: 0
+  gold: 2
+  cardImage: {fileID: 21300000, guid: d0f32f05da1340b49985a9d29ee390b3, type: 3}
+  cardFrameImage: {fileID: 21300000, guid: c05e3ec3b5d840e4abdbaad0a541ab97, type: 3}
+  numberInDeck: 7
+  isAttackCard: 0
+  isHealCard: 0
+  isDefenseCard: 0
+  isCreated: 0
